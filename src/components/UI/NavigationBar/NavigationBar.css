@@ -1,0 +1,28 @@
+.NavigationBar {
+  background-color: rgb(64, 50, 182);
+  height: 50px;
+}
+
+.NavigationBar .NavigationWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.NavigationBar .Title {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  height: 50px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.45em;
+}
+
+.NavigationBar .LogoutButton {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 2px 14px;
+  margin: 7px 0;
+  border-radius: 5px;
+  font-size: 1.1em;
+}

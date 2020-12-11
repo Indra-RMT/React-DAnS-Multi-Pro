@@ -1,0 +1,11 @@
+.JobList h1 {
+  margin: 35px 0 30px 0;
+  font-size: 1.9em;
+  color: #303030;
+}
+
+.JobList .JobItemWrapper {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
